@@ -1,0 +1,55 @@
+.asd{
+text-align: center;
+}
+.qwe{
+text-align: center;
+ }
+ body{
+    text-align: center;
+     }
+video {
+    width:1350px ;
+    height: 760px;
+}
+h2 {
+    color: rgb(255, 255, 255);
+     }
+     h4 {color: rgb(255, 255, 255);}
+     h1 {color: rgb(255, 255, 255);}
+     .egy{
+        color: rgba(4, 4, 165, 0.466);
+     }
+table{
+ color: white;
+}
+p {
+ text-align: center;
+}
+.dfg{
+    margin-left: auto;
+    margin-right: auto;
+font-size: 35px;
+border: 2px solid rgb(2, 255, 2);
+
+}
+th {
+    border:  2px solid rgb(2, 255, 2);
+}
+td  {
+    border:  2px solid rgb(2, 255, 2);
+}
+
+ .öüó{
+    
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+font-size: 35px;
+border: 2px solid rgb(2, 255, 2);
+}
+h3 {
+    color: darkturquoise;
+}
+a{color: red
+}

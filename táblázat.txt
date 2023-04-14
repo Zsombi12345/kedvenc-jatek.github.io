@@ -1,0 +1,41 @@
+r>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+
+
+
+
+
+<br>1. versenyek
+
+<br>országúti verseny</br>
+<br>földutas verseny</br>
+<br>terep verseny</br>
+<br>utcai verseny</br>
+<br>gyorsulási verseny</br>
+
+<br c>2. online versenyek
+open verseny
+open driftelés
+playground games
+egyedi verseny:</br>
+
+
+<br >3. tunningolás</br>
+<br >4. dizájnolás</br>
+<br >5. saját pálya építés</h3>
+
